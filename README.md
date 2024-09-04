@@ -1,1 +1,1 @@
-Proyecto simple para probar css.
+Proyecto simple con css, para la clase de I.S.
